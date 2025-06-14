@@ -4,7 +4,7 @@
 **Data:** 12/06/2025
 
 
-### **1. comunicação de tarefas **   
+### 1. comunicação de tarefas  
 
 1. Comunicação via Arquivos (Processos)
 
